@@ -3,7 +3,7 @@ document.title = "Ramzan Calendar"
 window.onload = function(){
     Swal.fire({
         title: "🤲 As-salamu Alaikum!",
-        text: "🌙 Ramadan Mubarak! May Allah bless you with peace and happiness.",
+        text: "🌙 Wishing you a blessed and peaceful Ramadan in advance. May Allah grant you happiness and serenity.",
         imageUrl: "images/Muslim Couple say hello.gif",
         confirmButtonText: "JazakAllah!",
         imageWidth: 400,
